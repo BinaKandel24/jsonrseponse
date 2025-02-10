@@ -1,6 +1,6 @@
 {
-  "status": "error",
-  "message": "Internal server error",
+  "status": "success",
+  "message": "good data",
   "data": [
 {
 "id": 1,
