@@ -1,0 +1,42 @@
+{
+    "status": "success",
+    "message": "Ministry/Division wise project GoB expenditure found!",
+    "timestamp": "2025-11-10T16:38:02.210",
+    "data": {
+        "total_source_allocation_amount": 0.0000,
+        "total_source_expenditure_amount": 0.0000,
+        "overall_expenditure_average": 0,
+        "source_allocation_less_than_average": {
+            "ministry_division_count": 0,
+            "ministry_division_data": []
+        },
+        "source_allocation_greater_than_or_equal_average": {
+            "ministry_division_count": 0,
+            "ministry_division_data": []
+        },
+        "without_source_allocation": {
+            "ministry_division_count": 0,
+            "ministry_division_data": []
+        },
+        "planning_division_development_assistance_for_special_needs": {
+            "ministry_division_count": 3,
+            "ministry_division_data": [
+                {
+                    "ministry_division_name_bangla": "পরিকল্পনা বিভাগ",
+                    "source_allocation_amount": 100000.0000,
+                    "source_expenditure_amount": 1108.2000
+                },
+				 {
+                    "ministry_division_name_bangla": "1পরিকল্পনা বিভাগ",
+                    "source_allocation_amount": 100000.0000,
+                    "source_expenditure_amount": 1108.2000
+                },
+				 {
+                    "ministry_division_name_bangla": "2পরিকল্পনা বিভাগ",
+                    "source_allocation_amount": 100000.0000,
+                    "source_expenditure_amount": 1108.2000
+                }
+            ]
+        }
+    }
+}
